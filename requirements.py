@@ -1,0 +1,8 @@
+'1.' " 'keras'"
+'2.' "tensorflow 2.8.0'"
+'3.' "'numpy'"
+'4.' "'sklearn'"
+'5.' "'pandas'"
+'7.' "'matplotlib'"
+'8.' "'scipy'"
+'9.' "'python 3-'"
